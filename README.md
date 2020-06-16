@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React JS Resume Web App Template      
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 ### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
@@ -37,4 +38,7 @@ When you're all done, run `npm start` again and you'll see your new personal res
 
 ##### Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+=======
+>>>>>>> 43c30ded3c455582e8a24ad4089ee9ae43f57e9c
 # portfolio-site
+# portfolio-website
