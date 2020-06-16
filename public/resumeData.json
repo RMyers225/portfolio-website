@@ -14,12 +14,12 @@
       "state":"GA",
       "zip": "30022"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.ronalddmyers.com",
+    "resumedownload":"http://ronalddmyers.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
