@@ -125,9 +125,15 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"A React based resume website",
         "image":"resume-website.jpg",
         "url":"https://www.ronalddmyers.com/"
+      },
+      {
+        "title":"Food Recipe",
+        "category":"A React based recipe website template",
+        "image":"Food-recipe.jpg",
+        "url":"https://food-recipe-app-23.herokuapp.com/"
       }
     ]
   },
