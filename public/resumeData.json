@@ -9,7 +9,7 @@
     "email": "ronaldmyersjr@gmail.com",
     "phone": "225-247-1830",
     "address":{
-      "street":"231 Holcombs Pont Ct",
+      "street":"231 Holcombs Pond Ct",
       "city":"Alpharetta",
       "state":"GA",
       "zip": "30022"
@@ -29,7 +29,7 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/",
         "className":"fa fa-google-plus"
       },
       {
