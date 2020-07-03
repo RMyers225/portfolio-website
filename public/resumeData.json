@@ -124,16 +124,22 @@
         "url":"https://for-starters-project-3.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
+        "title":"Portfolio Website",
         "category":"A React based resume website",
         "image":"resume-website.jpg",
         "url":"https://www.ronalddmyers.com/"
       },
       {
         "title":"Food Recipe",
-        "category":"A React based recipe website",
+        "category":"A React based recipe website with API database",
         "image":"Food-recipe.jpg",
         "url":"https://food-recipe-app-23.herokuapp.com/"
+      },
+      {
+        "title":"Weather",
+        "category":"A React based weather website with API database",
+        "image":"Forecast-Weather-app.jpg",
+        "url":"https://forecaster-weather-app.herokuapp.com/"
       }
     ]
   },
