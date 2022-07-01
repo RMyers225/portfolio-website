@@ -1,157 +1,167 @@
 {
   "main": {
-    "name":"Ronald Myers",
-    "occupation":"Software Developer",
-    "description":"I am a creative in a tech space. Can be currenlty found writing back end and making git commits along the way. ",
-    "image":"profilepic.jpg",
-    "bio":"A world lacking in innovation is a boring one. The fastest, surest way to bring forth innovation is in the space of technology.  With that being said I have chosen to enter this space with as much enthusiasm and self -determination as I can possibly bring. Being a software engineer is being a creator, and a word that stems from that is creative. Creativity is born out of imagination, which I feel is what makes me a great engineer. The languages I am most proficient in are Javascript, React, HTML, & CSS. I am also familiar with Agile and SDLC theory.",
-    "contactmessage":"You can get in contact with me here",
+    "name": "Ronald Myers",
+    "occupation": "Software Developer",
+    "description": "I am a creative in a tech space. Can be currenlty found writing back end and making git commits along the way. ",
+    "image": "profilepic.jpg",
+    "bio": "A world lacking in innovation is a boring one. The fastest, surest way to bring forth innovation is in the space of technology.  With that being said I have chosen to enter this space with as much enthusiasm and self -determination as I can possibly bring. Being a software engineer is being a creator, and a word that stems from that is creative. Creativity is born out of imagination, which I feel is what makes me a great engineer. The languages I am most proficient in are Javascript, React, HTML, & CSS. I am also familiar with Agile and SDLC theory.",
+    "contactmessage": "You can get in contact with me here",
     "email": "ronaldmyersjr@gmail.com",
     "phone": "225-247-1830",
-    "address":{
-      "street":"231 Holcombs Pond Ct",
-      "city":"Alpharetta",
-      "state":"GA",
+    "address": {
+      "street": "231 Holcombs Pond Ct",
+      "city": "Alpharetta",
+      "state": "GA",
       "zip": "30022"
     },
     "website": "http://www.ronalddmyers.com",
-    "resumedownload":"http://ronalddmyers.com",
-    "social":[
+    "resumedownload": "http://ronalddmyers.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "http://facebook.com/",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/ronald-myers-jr-548b4136/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ronald-myers-jr-548b4136/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://git.generalassemb.ly/RMyers",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://git.generalassemb.ly/RMyers",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"General Assembly",
-        "degree":"Software Engineering",
-        "graduated":"June 2020",
-        "description":"Received a certification in the Software Engineering at General Assembly in Atlanta, Ga. Upon completion I will obtain fluency in programable languages such as React, Javascript, HTML, CSS, Python, while using Github, Node, Mongo, and others."
+        "school": "General Assembly",
+        "degree": "Software Engineering",
+        "graduated": "June 2020",
+        "description": "Received a certification in the Software Engineering at General Assembly in Atlanta, Ga. Upon completion I will obtain fluency in programable languages such as React, Javascript, HTML, CSS, Python, while using Github, Node, Mongo, and others."
       },
       {
-        "school":"Southern University A&M College",
-        "degree":"B.S. of Marketing",
-        "graduated":"May 2011",
-        "description":"Received a Bachelor of Science in Marketing with a concentration in Sales."
+        "school": "Southern University A&M College",
+        "degree": "B.S. of Marketing",
+        "graduated": "May 2011",
+        "description": "Received a Bachelor of Science in Marketing with a concentration in Sales."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Cortland",
-        "title":"Leasing Consultan/Service Technician",
-        "years":"March 2019 - February 2020",
-        "description":"Coordinates and executes on work order requests resulting in a 94% completion rate within 48 hours. Advertises leasing promotions to prospective residents via in-person and outbound calling. Analyzes and report sales metrics. Executes marketing plans for company aligned and resident centric community events."
+        "company": "Cortland",
+        "title": "Leasing Consultan/Service Technician",
+        "years": "March 2019 - February 2020",
+        "description": "Coordinates and executes on work order requests resulting in a 94% completion rate within 48 hours. Advertises leasing promotions to prospective residents via in-person and outbound calling. Analyzes and report sales metrics. Executes marketing plans for company aligned and resident centric community events."
       },
       {
-        "company":"Camden",
-        "title":"Leasing Consultant",
-        "years":"March 2016 - February 2019",
-        "description":"Performed property tours and built relationships with potential residents by following up post appointment. Acted as point of contact for move-in and move-out procedures. Maintained quality customer service during high volume, peak season operations. Gathered and reported market competition information to influence monthly marketing strategies."
+        "company": "Camden",
+        "title": "Leasing Consultant",
+        "years": "March 2016 - February 2019",
+        "description": "Performed property tours and built relationships with potential residents by following up post appointment. Acted as point of contact for move-in and move-out procedures. Maintained quality customer service during high volume, peak season operations. Gathered and reported market competition information to influence monthly marketing strategies."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"80%"
+        "name": "Git",
+        "level": "80%"
       },
       {
-        "name":"Javascript",
-        "level":"65%"
+        "name": "Javascript",
+        "level": "65%"
       },
       {
-        "name":"ReactJs",
-        "level":"60%"
+        "name": "ReactJs",
+        "level": "60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"Node",
-        "level":"70%"
+        "name": "Node",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "MongoDB",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"For Starters",
-        "category":"A app helping to start conversations while dating",
-        "image":"For-starters.jpg",
-        "url":"https://for-starters-project-3.herokuapp.com/"
+        "title": "ToDo List in ReactJS & Typescript",
+        "category": "App to make a to do list that you set amount of days to finish it",
+        "image": "ToDoList.jpg",
+        "url": "https://todolist-reactjs-ts.herokuapp.com"
       },
       {
-        "title":"Portfolio Website",
-        "category":"A React based resume website",
-        "image":"resume-website.jpg",
-        "url":"https://www.ronalddmyers.com/"
+        "title": "For Starters",
+        "category": "A app helping to start conversations while dating",
+        "image": "For-starters.jpg",
+        "url": "https://for-starters-project-3.herokuapp.com/"
       },
       {
-        "title":"Food Recipe",
-        "category":"A React based recipe website with API database",
-        "image":"Food-recipe.jpg",
-        "url":"https://food-recipe-app-23.herokuapp.com/"
+        "title": "Portfolio Website",
+        "category": "A React based resume website",
+        "image": "resume-website.jpg",
+        "url": "https://www.ronalddmyers.com/"
       },
       {
-        "title":"Weather",
-        "category":"A React based weather website with API database",
-        "image":"Forecast-Weather-app.jpg",
-        "url":"https://forecaster-weather-app.herokuapp.com/"
+        "title": "Food Recipe",
+        "category": "A React based recipe website with API database",
+        "image": "Food-recipe.jpg",
+        "url": "https://food-recipe-app-23.herokuapp.com/"
+      },
+      {
+        "title": "Weather",
+        "category": "A React based weather website with API database",
+        "image": "Forecast-Weather-app.jpg",
+        "url": "https://forecaster-weather-app.herokuapp.com/"
+      },
+      {
+        "title": "Tip Calculator",
+        "category": "A Android tip calculator app built with Kotlin using Android Studio"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Ron's a hard worker. That is something that cannot be denied.",
-        "user":"John F. Kennedy"
+        "text": "Ron's a hard worker. That is something that cannot be denied.",
+        "user": "John F. Kennedy"
       },
       {
-        "text":"That Ronald Myers must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Someone who I paid to say this."
+        "text": "That Ronald Myers must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Someone who I paid to say this."
       }
     ]
   }
